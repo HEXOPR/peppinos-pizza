@@ -1,0 +1,33 @@
+img {
+  height: 150px;
+  width: 150px;
+}
+
+.price {
+  color: blue;
+}
+
+.menuCard {
+  background-color: aliceblue;
+  display: flex;
+  border: 1px solid black;
+  margin: 10px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: black;
+  color: yellow;
+  padding: 2px;
+}
+
+.menuInfo {
+  width: 150px;
+  padding: 5px;
+
+}
+
+.menuImg {
+  width: 150px;
+}

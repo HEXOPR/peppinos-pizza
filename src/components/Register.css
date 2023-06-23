@@ -1,0 +1,24 @@
+.registerForm{
+    border: 1px solid blueviolet;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    width: 40%;
+}
+
+
+.registerPage{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+
+
+.registerTitle{
+    background-color: blueviolet;
+    color: whitesmoke;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}

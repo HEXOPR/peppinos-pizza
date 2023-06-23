@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peppinos-pizza/static/css/main.c1773356.css",
+    "main.js": "/peppinos-pizza/static/js/main.ab625feb.js",
+    "static/js/787.9607001f.chunk.js": "/peppinos-pizza/static/js/787.9607001f.chunk.js",
+    "static/media/logo.svg": "/peppinos-pizza/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/peppinos-pizza/index.html",
+    "main.c1773356.css.map": "/peppinos-pizza/static/css/main.c1773356.css.map",
+    "main.ab625feb.js.map": "/peppinos-pizza/static/js/main.ab625feb.js.map",
+    "787.9607001f.chunk.js.map": "/peppinos-pizza/static/js/787.9607001f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1773356.css",
+    "static/js/main.ab625feb.js"
+  ]
+}
